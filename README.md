@@ -20,7 +20,13 @@ Projeto desenvolvido no evento Next Level Week da Rocketseat.
 ![preview](./.github/sqlite.png)
 
 > Mobile App
-![preview](./.github/mobile1.jpg)
-![preview](./.github/mobile2.jpg)
-![preview](./.github/mobile3.jpg)
-![preview](./.github/mobile4.jpg)
+
+<div style="flex">
+<img src="./.github/mobile1.jpg" alt="drawing" style="width:200px;"/>
+
+<img src="./.github/mobile2.jpg" alt="drawing" style="width:200px;"/>
+
+<img src="./.github/mobile3.jpg" alt="drawing" style="width:200px;"/>
+
+<img src="./.github/mobile4.jpg" alt="drawing" style="width:200px;"/>
+</div>
