@@ -30,3 +30,5 @@ Projeto desenvolvido no evento Next Level Week da Rocketseat.
 
 <img src="./.github/mobile4.jpg" alt="drawing" style="width:200px;"/>
 </div>
+
+## Este projeto não é mais mantido. Pode conter vulnerabilidades conhecidas. Não use em produção.
